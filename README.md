@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @smolprogrammer
 - 👀 I’m interested in coding, reading books and listening music! 
-- 🌱 I’m currently learning programming at the Technical University of Kosice
+- 🌱 I’m currently learning programming at the Technical University in Kosice
